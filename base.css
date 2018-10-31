@@ -6,6 +6,10 @@
 body {
 	background: url("img/bricks.png") repeat;
     color: #D8D8D8;
+	font-family: arial;
+}
+
+h1 {
 	font-family: bauhaus;
 }
 
@@ -31,6 +35,7 @@ body {
 }
 
 .button {
+	font-family: bauhaus;
 	margin: 5px;
 	border: 5px;
 	border-style: solid;
