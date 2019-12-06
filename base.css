@@ -9,6 +9,10 @@ body {
 	font-family: arial;
 }
 
+img {
+	image-rendering: crisp-edges;
+}
+
 h1 {
 	font-family: bauhaus;
 }
